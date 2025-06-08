@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Brandon Yap Jun Jie
 
-I'm a passionate and detail-oriented Computer Science undergraduate at the University of London, graduating in 2025 with First Class Honors. I specialize in machine learning, deep learning, and cloud-based applications. My goal is to build impactful, interpretable AI solutions for real-world problems.
+I'm a passionate and detail-oriented Computer Science undergraduate at the University of London, graduating in October 2025.. My goal is to build impactful, interpretable AI solutions for real-world problems.
 
 ---
 ## 🎓 Education
